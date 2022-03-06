@@ -2,7 +2,7 @@ const switchRainStatus=(description)=>{
     switch (description){
         case "09d":
             return("rain");
-        case "09d":
+        case "09n":
             return("rain");
         case "10d":
             return("rain");
